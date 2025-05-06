@@ -2,6 +2,8 @@
     "files.associations": {
         "stdio.h": "c",
         "math.h": "c",
-        "locale.h": "c"
+        "locale.h": "c",
+        "vetor9().C": "cpp",
+        "3.C": "cpp"
     }
 }
